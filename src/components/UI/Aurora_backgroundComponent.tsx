@@ -19,7 +19,7 @@ export function AuroraBackgroundHero() {
         }}
         className="relative flex flex-col md:gap-4 gap-8 items-center justify-center w-full"
       >
-        <div className="flex md:flex-row gap-4 md:gap-0 flex-col-reverse justify-between items-center w-full lg:p-8 p-6 lg:pl-24 pl-16">
+        <div className="flex md:flex-row gap-4 md:gap-0 flex-col-reverse justify-between items-center w-full lg:p-8 p-6 lg:pl-24 sm:pl-16">
           <div className="font-Wittgenstein md:text-3xl text-2xl font-bold">
             <div className="text-basic-dark text-center md:text-start lg:text-10xl md:text-8xl text-6xl">Shreyo Paul</div>
             <div className="md:pt-8 py-4 text-center md:text-start font-Inconsolata text-blue-500">

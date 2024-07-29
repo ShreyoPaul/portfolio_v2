@@ -418,7 +418,7 @@ export function Globe() {
             This globe is interactive and customizable. Have fun with it. :)
           </p>
         </motion.div>
-        <div className="absolute w-full bottom-0 inset-x-0 h-40 bg-gradient-to-b pointer-events-none select-none from-transparent to-transparent" />
+        <div className="absolute w-full bottom-0 inset-x-0 h-44 bg-gradient-to-b pointer-events-none select-none from-transparent to-transparent" />
         <div className="absolute w-full overflow-hidden md:-bottom-20 h-72 md:h-full z-10">
           <World data={sampleArcs} globeConfig={globeConfig} />
         </div>

@@ -6,10 +6,17 @@ import film from '@/assets/Images/filmrtk.png'
 import paul from '@/assets/Images/paulkart.png'
 import podium from '@/assets/Images/podiumpe.png'
 import grad from '@/assets/Images/gradient.png'
+import taskdash from '@/assets/Images/taskdash.png'
 import Link from 'next/link'
 
 const Projects = () => {
     const projects = [
+        {
+            title: "Task Management Dashboard",
+            pic: taskdash,
+            github: "https://github.com/ShreyoPaul/task_management_dashboard_2.o",
+            live: "https://task-management-dashboard-2-o.vercel.app/"
+        },
         {
             title: "Bus Ticket Booking MERN",
             pic: bus,
