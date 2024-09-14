@@ -21,6 +21,14 @@ export const projects = [
         name: 'Javascript'
     },
     {
+        pic: '/python.png',
+        name: 'Python'
+    },
+    {
+        pic: '/go.png',
+        name: 'Go'
+    },
+    {
         pic: 'https://cdn.iconscout.com/icon/free/png-256/html-2752158-2284975.png',
         name: 'HTML5'
     },
@@ -29,15 +37,27 @@ export const projects = [
         name: 'CSS3'
     },
     {
+        pic: 'https://imgs.search.brave.com/X3FUOFR4SZrEmRcpMlpryVcHDksMtvdQIY4e60-Z8Dk/rs:fit:820:820:1/g:ce/aHR0cHM6Ly9jb21t/ZXJjZWRhLmNvbS9p/bWFnZXMvbWF0ZXJp/YWwtdWktbG9nby5w/bmc',
+        name: 'Material UI'
+    },
+    {
+        pic: 'https://res.cloudinary.com/dvsmetmxh/image/upload/v1678874381/tailwind-removebg-preview_n811fw.png',
+        name: 'Tailwind'
+    },
+    {
         pic: 'https://cdn.iconscout.com/icon/free/png-256/react-3-1175109.png',
         name: 'React JS'
+    },
+    {
+        pic: 'https://react-redux.js.org/img/redux.svg',
+        name: 'Redux'
     },
     {
         pic: 'https://res.cloudinary.com/dvsmetmxh/image/upload/v1678873682/download-removebg-preview_2_zauh6x.png',
         name: 'Next JS'
     },
     {
-        pic: 'https://res.cloudinary.com/dvsmetmxh/image/upload/v1678873838/download-removebg-preview_3_wdptw4.png',
+        pic: '/node.png',
         name: 'Node JS'
     },
     {
@@ -49,15 +69,20 @@ export const projects = [
         name: 'MongoDB'
     },
     {
-        pic: 'https://imgs.search.brave.com/X3FUOFR4SZrEmRcpMlpryVcHDksMtvdQIY4e60-Z8Dk/rs:fit:820:820:1/g:ce/aHR0cHM6Ly9jb21t/ZXJjZWRhLmNvbS9p/bWFnZXMvbWF0ZXJp/YWwtdWktbG9nby5w/bmc',
-        name: 'Material UI'
+        pic: '/mysql.png',
+        name: 'MySQL'
     },
     {
-        pic: 'https://res.cloudinary.com/dvsmetmxh/image/upload/v1678874381/tailwind-removebg-preview_n811fw.png',
-        name: 'Tailwind'
+        pic: '/firebase.png',
+        name: 'Firebase'
+    },
+    {
+        pic: '/github.png',
+        name: 'GitHub'
     },
     {
         pic: 'https://cdn.iconscout.com/icon/free/png-128/figma-3521426-2944870.png',
         name: 'Figma'
     },
+    
 ]

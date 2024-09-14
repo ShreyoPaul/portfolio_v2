@@ -7,21 +7,28 @@ import paul from '@/assets/Images/paulkart.png'
 import podium from '@/assets/Images/podiumpe.png'
 import grad from '@/assets/Images/gradient.png'
 import taskdash from '@/assets/Images/taskdash.png'
+import inventorify from '@/assets/Images/inventorify.png'
 import Link from 'next/link'
 
 const Projects = () => {
     const projects = [
         {
-            title: "Task Management Dashboard",
-            pic: taskdash,
-            github: "https://github.com/ShreyoPaul/task_management_dashboard_2.o",
-            live: "https://task-management-dashboard-2-o.vercel.app/"
+            title: "Inventorify",
+            pic: inventorify,
+            github: "https://github.com/ShreyoPaul/INVENTORIFY",
+            live: "https://inventorify-iyct.vercel.app/"
         },
         {
             title: "Bus Ticket Booking MERN",
             pic: bus,
             github: "https://github.com/ShreyoPaul/BusBooKing_MERN",
             live: "https://bus-booking-mern.vercel.app"
+        },
+        {
+            title: "Task Management Dashboard",
+            pic: taskdash,
+            github: "https://github.com/ShreyoPaul/task_management_dashboard_2.o",
+            live: "https://task-management-dashboard-2-o.vercel.app/"
         },
         {
             title: "Task Manager MERN",

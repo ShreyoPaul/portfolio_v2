@@ -156,7 +156,7 @@ export const TypewriterEffectSmooth = ({
                 }}
             >
                 <div
-                    className="text-xs sm:text-base xl:text-xl font-semibold font-Inconsolata"
+                    className="text-xs sm:text-base xl:text-xl font-semibold font-Rubik"
 
                 >
                     {renderWords()}{" "}

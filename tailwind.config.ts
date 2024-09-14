@@ -29,8 +29,8 @@ module.exports = {
         '3xl': '0 1px 3px rgba(0, 0, 0, 0.35)'
       },
       fontFamily: {
-        Inconsolata: ["Inconsolata", "monospace"],
-        Wittgenstein: ["Wittgenstein"],
+        Wittgenstein: "Wittgenstein",
+        Rubik: "Rubik",
       },
       animation: {
         aurora: "aurora 60s linear infinite",
